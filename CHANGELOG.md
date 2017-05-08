@@ -1,7 +1,12 @@
 # Change Log
-All notable changes to the "context-switch" extension will be documented in this file.
+All notable changes to this project will be documented in this file.
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+The format is based on [Keep a Changelog](http://keepachangelog.com/)
+and this project adheres to [Semantic Versioning](http://semver.org/).
 
 ## [Unreleased]
+### Added
 - Initial release
+- added *this* CHANGELOG that adheres to the format suggest by [Keep a Changelog](http://keepachangelog.com/).
+
+[Unreleased]: https://github.com/tholst/vscode-context-switch/commits/master
